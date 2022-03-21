@@ -1,0 +1,1 @@
+## Bu klasör [Patika.dev](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar) eğitimleri arasında yer alan ''Veri Yapıları ve Algoritmalar' Projelerini içermektedir.
